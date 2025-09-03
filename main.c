@@ -20,6 +20,8 @@ int main()
     scanf("%s", email);
     printf("how old are you\n");
     scanf("%d", &age);
+
+
     printf("your personal information are:\n");
     printf("your name is %s\n", name);
     printf("your last name is %s \n", lastname);
